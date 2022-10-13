@@ -59,11 +59,23 @@
 
         </section>
         <section>
+            <div>
             <h2> <a name="contact">contact</a> </h2>
+            <h4>num  +216 39 143 900</h4>
+            <h4>mail  hello@gomycode.com</h4>
+        </div>
+
             
 
         </section>
 
       
   </body>
+  <footer>
+    <div>
+        <h5>GOMYCODE Hackerspace, 1 Place Tahar Haddad, 1 Tunis 1053</h5>
+        <h5>Suivez-nous</h5>
+        <h5>Copyright 2022 GOMYCODE HOLDING B.V.</h5>
+    </div>
+  </footer>
 </html>
