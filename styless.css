@@ -1,0 +1,47 @@
+
+
+#titre { color: black ;background-color: white;border-style:groove;border-color: black ;height: 50px; 
+    width: 900px;text-align: left;padding-top: 15px;padding-left: 50px;
+font-style: italic;}
+
+div { display: block;}
+h2 {    height: 50px; 
+    width: 100px;
+
+    color: white ;
+      font-family:  roboto;
+      margin:0px;
+      
+      background-color: black; 
+      border-style: groove ;
+      border-color: black;
+      text-align: center;
+      padding-top: 15px;
+      
+      
+
+      }
+.bar{ display: inline-block;
+margin-right: 0px;
+margin-left: 0px;}    
+#div {background-color: white;
+    border-style: groove;
+border-color: black;}  
+section {
+    color: aquamarine;
+     display: block;
+background-color:black;
+padding-left: 50px;
+padding-top: 200px;
+padding-bottom: 20px; ;
+padding-right: 50px ;
+border-style: groove;
+border-color: black;
+border-radius: 800px / 800px;;
+text-align: center;
+margin: 30px;
+height: 300px; 
+width: 500px; }
+#home {margin-left: 40%;}
+#about {margin-left: 10%;}
+#contact {margin-left: 40%;}
